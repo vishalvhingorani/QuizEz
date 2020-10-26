@@ -4,13 +4,7 @@ An Android Application to Create Exciting Quizzes and Personalised Tests with Ea
 Available at https://play.google.com/store/apps/details?id=com.androiddev.quizez
 
 
-<img src="Images/image1.png" width="300">&nbsp;&nbsp;&nbsp;<img src="Images/image2.png" width="300"><img src="Images/image3.png" width="300">
-
-
-<img src="Images/image4.png" width="300">
-
-
-<img src="Images/image5.png" width="300">
+<img src="Images/image1.png" width="250">&nbsp;&nbsp;&nbsp;<img src="Images/image2.png" width="250">&nbsp;&nbsp;&nbsp;<img src="Images/image3.png" width="250">&nbsp;&nbsp;&nbsp;<img src="Images/image4.png" width="250">&nbsp;&nbsp;&nbsp;<img src="Images/image5.png" width="250">
 
 
 QuizEz is a fun and exciting new app which lets you create and customize your own quizzes. You can design and tailor quizzes endlessly like never before. 
