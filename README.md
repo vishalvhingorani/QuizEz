@@ -1,6 +1,8 @@
 # QuizEz
 Create Exciting Quizzes and Personalised Tests with Ease!
 
+Available at https://play.google.com/store/apps/details?id=com.androiddev.quizez
+
 
 <img src="Images/image1.png" width="300">
 
