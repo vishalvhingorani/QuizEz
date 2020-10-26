@@ -2,19 +2,19 @@
 Create Exciting Quizzes and Personalised Tests with Ease!
 
 
-![](Images/image1.png)
+<img src="Images/image1.png" width="300">
 
 
-![](Images/image2.png)
+<img src="Images/image2.png" width="300">
 
 
-![](Images/image3.png)
+<img src="Images/image3.png" width="300">
 
 
-![](Images/image4.png)
+<img src="Images/image4.png" width="300">
 
 
-![](Images/image5.png)
+<img src="Images/image5.png" width="300">
 
 
 QuizEz is a fun and exciting new app which lets you create and customize your own quizzes. You can design and tailor quizzes endlessly like never before. 
