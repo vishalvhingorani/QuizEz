@@ -1,5 +1,5 @@
 # QuizEz
-Create Exciting Quizzes and Personalised Tests with Ease!
+An Android Application to Create Exciting Quizzes and Personalised Tests with Ease!
 
 Available at https://play.google.com/store/apps/details?id=com.androiddev.quizez
 
