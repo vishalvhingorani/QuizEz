@@ -4,13 +4,7 @@ An Android Application to Create Exciting Quizzes and Personalised Tests with Ea
 Available at https://play.google.com/store/apps/details?id=com.androiddev.quizez
 
 
-<img src="Images/image1.png" width="300">
-
-
-<img src="Images/image2.png" width="300">
-
-
-<img src="Images/image3.png" width="300">
+<img src="Images/image1.png" width="300">&nbsp;&nbsp;&nbsp;<img src="Images/image2.png" width="300"><img src="Images/image3.png" width="300">
 
 
 <img src="Images/image4.png" width="300">
