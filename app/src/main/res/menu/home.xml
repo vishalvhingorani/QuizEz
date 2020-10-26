@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/createnewmenu"
+        android:title="Create New Quiz"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/archivedmenu"
+        android:title="Archived Quizzes"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/settingsmenu"
+        android:title="Settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>
