@@ -13,7 +13,7 @@ You can also prepare quizzes for tests and check your exam readiness whenever yo
 QuizEz has a seamless and intuitive UI which is easy to use for people of all ages. 
 
 
-<img src="Images/image1.png" width="220">&nbsp;&nbsp;&nbsp;<img src="Images/image2.png" width="220">&nbsp;&nbsp;&nbsp;<img src="Images/image3.png" width="220">&nbsp;&nbsp;&nbsp;<img src="Images/image4.png" width="220">&nbsp;&nbsp;&nbsp;<img src="Images/image5.png" width="220">
+<img src="Images/image1.png" width="200">&nbsp;&nbsp;&nbsp;<img src="Images/image2.png" width="200">&nbsp;&nbsp;&nbsp;<img src="Images/image3.png" width="200">&nbsp;&nbsp;&nbsp;<img src="Images/image4.png" width="200">&nbsp;&nbsp;&nbsp;<img src="Images/image5.png" width="200">
 
 
 It’s a fun and easy way to prepare for anything be it game night or an exam, QuizEz has got you covered.
