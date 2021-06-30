@@ -3,7 +3,7 @@ An Android Application to Create Exciting Quizzes and Personalised Tests with Ea
 
 Available at https://play.google.com/store/apps/details?id=com.androiddev.quizez
 
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<img src="Images/Feature.jpg" width="500">
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<img src="Images/Feature.jpg" width="700">
 
 QuizEz is a fun and exciting new app which lets you create and customize your own quizzes. You can design and tailor quizzes endlessly like never before. 
 It is a free app with no ads to help you enjoy your experience without any disturbances. QuizEz has the unique feature of playing solo. You don’t need to waste your time waiting for the opponent anymore, you can just play at your own pace.
